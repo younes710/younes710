@@ -1,58 +1,87 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Younes+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+things+that+actually+work+%F0%9F%9A%80" />
+# 👋 Hi, I'm Younes
+
+### Frontend Developer
+
+**React • Next.js • TypeScript**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,materialui,nodejs,express,mongodb" />
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header" />
+<table>
+<tr>
+<td width="50%">
 
-## 🧑‍💻 About Me
+### 🎯 Focus
 
 ```text
-Frontend Developer
-        ↓
-React + Next.js
-        ↓
+Frontend Development
+React Architecture
+Next.js
 TypeScript
-        ↓
-Building real-world projects
-        ↓
-Learning Backend & Full-Stack
+UI Development
+API Integration
 ```
 
-### 🛠️ What I Work With
+</td>
 
-| Area         | Technologies                   |
-| ------------ | ------------------------------ |
-| Frontend     | React · Next.js · TypeScript   |
-| Styling      | Tailwind CSS · MUI             |
-| Forms        | React Hook Form · Zod          |
-| Server State | TanStack Query                 |
-| Client State | Zustand                        |
-| Backend      | Node.js · Express.js           |
-| Database     | MongoDB                        |
-| Tools        | Git · GitHub · Figma · Postman |
+<td width="50%">
 
-<br>
+### 🧠 Currently Learning
+
+```text
+Backend Development
+NestJS
+PostgreSQL
+Prisma
+Testing
+Docker
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 My Toolbox
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,materialui" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+### 📊 GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+**Building → Learning → Improving → Repeat 🔁**
 
 </div>
