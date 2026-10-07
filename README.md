@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Younes 👋</h1>
 
-<!--
-**younes710/younes710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Frontend Developer · React · Next.js · TypeScript
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+* 🚀 Frontend Developer focused on React & Next.js
+* 🧩 I enjoy building clean and scalable interfaces
+* 🌱 Currently expanding my Backend & Full-Stack skills
+* 🛠️ Building small real-world projects and improving my GitHub
+* 🇮🇷 Based in Iran
+
+### ⚡ Tech Stack
+
+**Frontend**
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `MUI`
+
+**Forms & State**
+
+`React Hook Form` `Zod` `TanStack Query` `Zustand`
+
+**Backend**
+
+`Node.js` `Express.js`
+
+**Database**
+
+`MongoDB`
+
+**Tools**
+
+`Git` `GitHub` `Figma` `Postman`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
