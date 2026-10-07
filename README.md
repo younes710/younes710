@@ -1,47 +1,58 @@
-<h1 align="center">Hey, I'm Younes 👋</h1>
+<div align="center">
 
-<p align="center">
-  Frontend Developer · React · Next.js · TypeScript
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Younes+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+things+that+actually+work+%F0%9F%9A%80" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb" />
-</p>
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github" />
 
-### 👨‍💻 About Me
+</div>
 
-* 🚀 Frontend Developer focused on React & Next.js
-* 🧩 I enjoy building clean and scalable interfaces
-* 🌱 Currently expanding my Backend & Full-Stack skills
-* 🛠️ Building small real-world projects and improving my GitHub
-* 🇮🇷 Based in Iran
+<br>
 
-### ⚡ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header" />
 
-**Frontend**
+## 🧑‍💻 About Me
 
-`React` `Next.js` `TypeScript` `Tailwind CSS` `MUI`
+```text
+Frontend Developer
+        ↓
+React + Next.js
+        ↓
+TypeScript
+        ↓
+Building real-world projects
+        ↓
+Learning Backend & Full-Stack
+```
 
-**Forms & State**
+### 🛠️ What I Work With
 
-`React Hook Form` `Zod` `TanStack Query` `Zustand`
+| Area         | Technologies                   |
+| ------------ | ------------------------------ |
+| Frontend     | React · Next.js · TypeScript   |
+| Styling      | Tailwind CSS · MUI             |
+| Forms        | React Hook Form · Zod          |
+| Server State | TanStack Query                 |
+| Client State | Zustand                        |
+| Backend      | Node.js · Express.js           |
+| Database     | MongoDB                        |
+| Tools        | Git · GitHub · Figma · Postman |
 
-**Backend**
+<br>
 
-`Node.js` `Express.js`
+<div align="center">
 
-**Database**
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
 
-`MongoDB`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
 
-**Tools**
+</div>
 
-`Git` `GitHub` `Figma` `Postman`
+<br>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
