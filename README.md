@@ -43,9 +43,9 @@ Learning Backend & Full-Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=younes710&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=younes710&hide_border=true" />
 
 </div>
 
